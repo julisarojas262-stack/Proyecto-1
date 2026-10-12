@@ -1,0 +1,32 @@
+h1{
+    color:beige;
+    font-size: 100px;
+    line-height: 100px;
+    
+    
+}
+
+body{
+    background-color:pink;
+    font-family: 'Times New Roman';
+    justify-content: center;
+    
+}
+
+p{
+    color: black;
+    line-height:1.6;
+    font-size: 15px;
+}
+
+img{
+    
+    
+    border:8px solid rgb(226, 223, 183);
+    border-radius: 10px;
+    
+}
+
+p{
+    font-size: 22px;
+}
